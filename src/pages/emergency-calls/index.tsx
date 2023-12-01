@@ -1,6 +1,6 @@
-import CallsCard from '@/components/calls-card/CallsCard';
-import ProvinceCard from '@/components/calls-card/ProvinceCard';
-import SearchBar from '@/components/search-bar/SearchBar';
+import CallsCard from '../../components/calls-card/CallsCard';
+import ProvinceCard from '../../components/calls-card/ProvinceCard';
+import SearchBar from '../../components/search-bar/SearchBar';
 import { useState } from 'react';
 
 export default function EmergencyCallsPage() {

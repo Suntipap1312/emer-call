@@ -1,7 +1,6 @@
 
 import { useEffect } from 'react';
 import { Chart } from 'chart.js/auto'
-import Dropdown from '@/components/UI/Dropdown/Dropdown';
 export default function Expenses() {
     type Categories = 'food' | 'snack' | 'hotel' | 'gas';
 
